@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TonyFetuccini
+- 👋 Hi, I’m @jameswehmaniii
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on anything
